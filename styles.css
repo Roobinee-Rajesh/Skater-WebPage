@@ -186,6 +186,7 @@ video {
 .form {
   width: 50%;
   padding-left: 40px;
+  
 }
 
 .contact-text {
@@ -196,6 +197,7 @@ video {
 input {
   width: 250px;
   height: 40px;
+  background-color: rgba(57, 54, 54, 0.735);
 }
 
 .footer {
